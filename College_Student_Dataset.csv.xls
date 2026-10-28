@@ -1,0 +1,301 @@
+Student_ID,Student_Name,Gender,Age,College,Department,Semester,Attendance_%,CGPA,Backlogs,Internship,Skills,Placement_Status,Company,Package_LPA
+STU0001,Aditya Mishra,Male,19,National College of Computer Studies,Electronics,4,68.6,5.8,0,Yes,"Python, SQL",Placed,Accenture,4.73
+STU0002,Sameer Jain,Male,23,Techno India College,Cyber Security,5,70.3,7.73,2,No,"Python, ML",Not Placed,N/A,0
+STU0003,Jatin Gupta,Female,19,Government College of Engineering,Information Technology,4,71.1,8.08,0,Yes,"Python, SQL",Placed,IBM,6.4
+STU0004,Anjali Thakur,Female,20,Sunrise Institute of Technology,Data Science,8,79.3,7.82,1,No,"C++, Java",Not Placed,N/A,0
+STU0005,Naman Mishra,Male,21,Government College of Engineering,Electronics,6,68.9,8.56,0,No,"C++, Java",Placed,Wipro,6.98
+STU0006,Deepak Yadav,Male,21,Modern Institute of Technology,Mechanical,6,87.5,6.2,0,Yes,"Python, Data Analytics",Placed,Infosys,4.46
+STU0007,Gaurav Tiwari,Female,21,Lakshmi Narain College,Electronics,6,88.6,8.64,0,No,"JavaScript, React",Placed,Capgemini,6.64
+STU0008,Riya Tiwari,Male,18,ABC Institute of Technology,Information Technology,5,65.7,6.35,1,Yes,"JavaScript, React",Placed,Tech Mahindra,5.43
+STU0009,Tushar Malviya,Male,23,Techno India College,Civil,6,86.2,8.12,0,No,"Python, Excel",Placed,IBM,7.04
+STU0010,Sneha Joshi,Male,24,Techno India College,Mechanical,5,73.8,7.88,2,No,"Python, SQL",Not Placed,N/A,0
+STU0011,Aditya Malviya,Female,20,Modern Institute of Technology,Mechanical,4,78.7,8.66,0,No,"C++, Java",Placed,IBM,7.67
+STU0012,Tanya Tiwari,Male,22,City Institute of Science,Civil,8,85.3,6.82,0,Yes,"SQL, Power BI",Placed,Zoho,5.42
+STU0013,Pooja Dubey,Female,21,Central College of Engineering,Mechanical,5,79.9,7.57,1,Yes,"Python, SQL",Placed,Persistent,5.65
+STU0014,Akash Agarwal,Male,18,Techno India College,Mechanical,6,74.6,6.95,0,No,"HTML, CSS, JavaScript",Placed,Accenture,5.75
+STU0015,Divya Malviya,Female,18,Shri Ram Institute of Technology,Data Science,7,61.1,8.45,0,No,"Java, SQL",Placed,Capgemini,7.34
+STU0016,Isha Jain,Male,19,Techno India College,Business Administration,5,70.9,7.84,0,No,"SQL, Power BI",Placed,IBM,5.06
+STU0017,Anjali Mehta,Male,19,Shri Ram Institute of Technology,Business Administration,7,80.3,8.39,0,Yes,"JavaScript, React",Placed,Tech Mahindra,7.16
+STU0018,Chetan Jain,Female,20,National College of Computer Studies,Computer Science,8,77.7,7.18,0,Yes,"SQL, Power BI",Placed,IBM,5.45
+STU0019,Diya Patel,Male,22,Central College of Engineering,Mechanical,7,93.3,8.79,0,Yes,"HTML, CSS, JavaScript",Placed,Persistent,8.37
+STU0020,Ishita Jain,Female,23,Government College of Engineering,Mechanical,6,66.2,8.32,0,Yes,"C++, Java",Placed,HCL,8.86
+STU0021,Ananya Thakur,Male,19,Techno India College,Civil,5,96.8,6.74,3,Yes,"Python, ML",Placed,IBM,6.31
+STU0022,Tanya Thakur,Male,20,Central College of Engineering,Electronics,6,81.6,7.78,1,Yes,"HTML, CSS, JavaScript",Placed,Cognizant,6.26
+STU0023,Riya Tiwari,Female,20,ABC Institute of Technology,Information Technology,7,79.4,7.26,0,Yes,"C, C++",Placed,Tech Mahindra,6.53
+STU0024,Sameer Sharma,Female,18,Central College of Engineering,Electronics,8,87.4,7.69,1,Yes,"Python, SQL",Placed,TCS,7.89
+STU0025,Tushar Mehta,Male,23,Central College of Engineering,Data Science,8,85.6,6.89,1,Yes,"Java, Web Development",Placed,Wipro,6.93
+STU0026,Diya Agarwal,Male,24,Shri Ram Institute of Technology,Mechanical,6,86.4,8.68,0,Yes,"SQL, Power BI",Placed,Tech Mahindra,7.66
+STU0027,Harsh Sharma,Male,23,National College of Computer Studies,Cyber Security,6,77.3,7.84,1,Yes,"Python, AI",Placed,IBM,6.64
+STU0028,Ayush Mishra,Male,19,Sunrise Institute of Technology,Civil,4,86.3,8.11,1,Yes,"HTML, CSS, JavaScript",Placed,Infosys,7.09
+STU0029,Ishita Verma,Male,23,Shri Ram Institute of Technology,Computer Science,8,89.1,7,1,No,"Java, SQL",Placed,Capgemini,4.02
+STU0030,Simran Agarwal,Female,23,Central College of Engineering,Civil,8,74.3,8.36,0,Yes,"Python, ML",Placed,Persistent,8.76
+STU0031,Simran Bansal,Male,20,Shri Ram Institute of Technology,Computer Science,6,75.6,8.43,0,No,"SQL, Power BI",Placed,Persistent,6.03
+STU0032,Yash Singh,Female,23,Central College of Engineering,Civil,8,70.8,6.43,0,No,"Java, Web Development",Not Placed,N/A,0
+STU0033,Divya Gupta,Male,18,ABC Institute of Technology,Mechanical,7,64.9,6.51,1,No,"HTML, CSS, JavaScript",Not Placed,N/A,0
+STU0034,Rahul Choudhary,Female,19,City Institute of Science,Computer Science,4,79.2,6.88,2,No,"SQL, Power BI",Not Placed,N/A,0
+STU0035,Ayush Yadav,Male,19,Lakshmi Narain College,Data Science,7,65.9,6.57,1,No,"Python, AI",Not Placed,N/A,0
+STU0036,Yash Tiwari,Male,21,Modern Institute of Technology,Mechanical,6,79.2,6.41,1,Yes,"C++, Java",Placed,Accenture,4.85
+STU0037,Sakshi Patel,Female,19,City Institute of Science,Mechanical,7,72.6,6.18,0,Yes,"Python, AI",Placed,TCS,4.42
+STU0038,Naman Bansal,Female,23,ABC Institute of Technology,Cyber Security,7,87.3,7.53,1,No,"JavaScript, React",Placed,Zoho,5.82
+STU0039,Rahul Mehta,Male,20,Shri Ram Institute of Technology,Business Administration,4,66.6,8.36,0,No,"SQL, Power BI",Placed,HCL,6.75
+STU0040,Shivam Bansal,Female,23,ABC Institute of Technology,Information Technology,7,85.3,8.25,0,Yes,"Java, Web Development",Placed,Cognizant,8.19
+STU0041,Jatin Khan,Female,20,Central College of Engineering,Business Administration,4,78,7.21,2,Yes,"C++, Java",Placed,Persistent,5.19
+STU0042,Isha Jain,Male,24,ABC Institute of Technology,Electronics,5,88.4,8.45,0,Yes,"Python, Excel",Placed,Cognizant,6.94
+STU0043,Ritika Singh,Male,20,Central College of Engineering,Computer Science,6,58.6,6.6,1,No,"Java, Web Development",Not Placed,N/A,0
+STU0044,Arjun Joshi,Male,24,Sunrise Institute of Technology,Information Technology,8,79.9,6.69,1,Yes,"Python, AI",Placed,TCS,6.62
+STU0045,Arjun Khan,Female,20,Lakshmi Narain College,Electronics,7,83.4,8.48,0,Yes,"Python, AI",Placed,Tech Mahindra,7.64
+STU0046,Khushi Mehta,Female,24,Central College of Engineering,Civil,7,78.4,8.51,0,Yes,"Python, SQL",Placed,Cognizant,7.04
+STU0047,Meera Mishra,Male,20,Modern Institute of Technology,Civil,8,99,7.64,0,No,"SQL, Power BI",Placed,Accenture,6.31
+STU0048,Pooja Sharma,Female,18,Modern Institute of Technology,Mechanical,7,74.9,6.78,1,Yes,"Python, AI",Placed,Zoho,5.97
+STU0049,Varun Yadav,Female,20,Modern Institute of Technology,Civil,5,82.7,7.9,0,Yes,"Python, Excel",Placed,Accenture,7.73
+STU0050,Vivek Bansal,Female,24,Techno India College,Civil,4,82.2,6.84,1,Yes,"Python, Excel",Placed,Deloitte,4.78
+STU0051,Sameer Joshi,Male,23,City Institute of Science,Business Administration,4,87.1,6.66,1,Yes,"Python, ML",Placed,Deloitte,6.81
+STU0052,Ayush Patel,Female,21,Lakshmi Narain College,Information Technology,8,75.7,7.28,0,Yes,"C, C++",Placed,Accenture,5.47
+STU0053,Shreya Soni,Female,24,Sunrise Institute of Technology,Mechanical,8,62,8.84,0,Yes,"JavaScript, React",Placed,HCL,7.12
+STU0054,Zoya Jain,Male,23,National College of Computer Studies,Civil,4,81.4,7.96,0,Yes,"SQL, Power BI",Placed,Tech Mahindra,6.68
+STU0055,Karan Joshi,Male,23,Lakshmi Narain College,Information Technology,5,93.6,6.77,1,No,"Java, Web Development",Placed,IBM,4.15
+STU0056,Jatin Gupta,Male,18,ABC Institute of Technology,Electronics,6,62.6,6.56,3,Yes,"SQL, Power BI",Not Placed,N/A,0
+STU0057,Jatin Dubey,Female,22,Lakshmi Narain College,Business Administration,4,60.9,6.41,2,Yes,"Python, SQL",Placed,Persistent,6.26
+STU0058,Zoya Mishra,Male,22,ABC Institute of Technology,Electronics,7,67.3,7.38,0,No,"JavaScript, React",Not Placed,N/A,0
+STU0059,Anjali Tiwari,Female,20,Shri Ram Institute of Technology,Data Science,6,68.5,5.94,1,No,"C, C++",Not Placed,N/A,0
+STU0060,Zoya Thakur,Female,18,Lakshmi Narain College,Information Technology,6,77.9,7.95,1,No,"Python, SQL",Placed,IBM,6.1
+STU0061,Divya Dubey,Male,20,Sunrise Institute of Technology,Business Administration,7,78.4,6.89,1,No,"SQL, Power BI",Not Placed,N/A,0
+STU0062,Ayush Sharma,Female,23,Sunrise Institute of Technology,Mechanical,5,77.4,7.64,0,Yes,"C++, Java",Placed,Infosys,7.21
+STU0063,Rahul Joshi,Male,22,Modern Institute of Technology,Cyber Security,7,85.4,7.42,1,Yes,"HTML, CSS, JavaScript",Placed,Wipro,7.49
+STU0064,Ritika Khan,Female,20,Techno India College,Civil,4,76.3,8.24,0,No,"SQL, Power BI",Placed,Tech Mahindra,6.62
+STU0065,Manish Thakur,Female,24,Techno India College,Cyber Security,7,96.4,6.76,4,Yes,"JavaScript, React",Placed,Capgemini,4.68
+STU0066,Vikas Choudhary,Female,21,City Institute of Science,Business Administration,4,96.2,9.16,0,Yes,"SQL, Power BI",Placed,Tech Mahindra,7.37
+STU0067,Nikhil Gupta,Male,18,Lakshmi Narain College,Civil,6,70.8,6.87,0,Yes,"Java, SQL",Placed,Capgemini,7.09
+STU0068,Sakshi Verma,Female,22,Central College of Engineering,Mechanical,6,94.6,7.48,0,Yes,"Java, SQL",Placed,Infosys,6.51
+STU0069,Aditya Verma,Female,20,ABC Institute of Technology,Civil,6,74,7.86,0,Yes,"Python, ML",Placed,Infosys,7.36
+STU0070,Simran Mehta,Female,21,Sunrise Institute of Technology,Electronics,5,70.6,7.67,0,Yes,"SQL, Power BI",Placed,Persistent,6.99
+STU0071,Pooja Saxena,Male,22,Modern Institute of Technology,Cyber Security,6,69.8,7.7,3,No,"C++, Java",Not Placed,N/A,0
+STU0072,Sanya Joshi,Female,23,Modern Institute of Technology,Computer Science,7,76,8.65,0,No,"Python, SQL",Placed,Zoho,6.99
+STU0073,Ritika Mehta,Female,22,Government College of Engineering,Mechanical,5,67.1,6.57,2,No,"Python, ML",Not Placed,N/A,0
+STU0074,Kavya Yadav,Male,18,Sunrise Institute of Technology,Data Science,5,85.1,7.9,1,Yes,"Python, ML",Placed,Cognizant,7.21
+STU0075,Deepak Mishra,Female,24,Lakshmi Narain College,Civil,6,81.8,6.55,0,No,"Java, Web Development",Not Placed,N/A,0
+STU0076,Sameer Saxena,Female,18,Shri Ram Institute of Technology,Computer Science,6,67.3,7.27,1,No,"HTML, CSS, JavaScript",Not Placed,N/A,0
+STU0077,Arjun Mehta,Female,21,ABC Institute of Technology,Data Science,8,78.6,7.82,1,No,"C, C++",Placed,Infosys,5.14
+STU0078,Kavya Tiwari,Male,18,Central College of Engineering,Mechanical,8,85.2,8.25,0,No,"Python, AI",Placed,Zoho,7.1
+STU0079,Sonal Malviya,Female,24,Lakshmi Narain College,Cyber Security,6,87.4,7.68,0,No,"Python, Data Analytics",Placed,Persistent,5.55
+STU0080,Aman Choudhary,Female,20,National College of Computer Studies,Information Technology,7,83.8,7.84,1,No,"Python, SQL",Placed,Accenture,7.29
+STU0081,Ananya Thakur,Male,19,Sunrise Institute of Technology,Mechanical,5,75.3,7.95,2,Yes,"Python, ML",Placed,IBM,6.57
+STU0082,Ayush Sharma,Male,19,ABC Institute of Technology,Data Science,5,76.5,7.41,0,Yes,"JavaScript, React",Placed,Zoho,5.48
+STU0083,Ritika Saxena,Female,22,Sunrise Institute of Technology,Information Technology,7,55,7.45,0,No,"Java, SQL",Not Placed,N/A,0
+STU0084,Sonal Sharma,Female,18,Lakshmi Narain College,Cyber Security,7,73.5,6.54,3,Yes,"C++, Java",Not Placed,N/A,0
+STU0085,Ananya Gupta,Male,20,Sunrise Institute of Technology,Data Science,7,90.3,7.46,0,Yes,"C++, Java",Placed,Infosys,7.51
+STU0086,Pallavi Yadav,Male,19,Shri Ram Institute of Technology,Data Science,7,65,8.36,0,Yes,"C, C++",Placed,Wipro,8.13
+STU0087,Ananya Patel,Female,24,Central College of Engineering,Information Technology,7,91.5,8.34,0,Yes,"HTML, CSS, JavaScript",Placed,IBM,7.22
+STU0088,Nikhil Saxena,Male,24,Shri Ram Institute of Technology,Computer Science,6,70.5,7.01,1,Yes,"Java, SQL",Placed,Infosys,5.74
+STU0089,Ayush Mishra,Female,22,National College of Computer Studies,Cyber Security,8,96.2,7.24,1,No,"Python, SQL",Placed,Persistent,6.2
+STU0090,Aditya Singh,Female,20,Modern Institute of Technology,Data Science,6,98.2,7.57,1,Yes,"Python, ML",Placed,TCS,5.73
+STU0091,Naman Khan,Male,21,Government College of Engineering,Electronics,6,74.7,8.24,1,Yes,"Python, SQL",Placed,HCL,6.4
+STU0092,Jatin Yadav,Male,23,Shri Ram Institute of Technology,Business Administration,8,70.5,7.76,1,Yes,"JavaScript, React",Placed,Persistent,7.42
+STU0093,Rohan Joshi,Female,18,National College of Computer Studies,Cyber Security,8,84.4,7.71,2,No,"C, C++",Placed,Infosys,4.69
+STU0094,Diya Gupta,Female,21,Techno India College,Mechanical,8,64.1,7.02,0,Yes,"Python, Excel",Placed,TCS,6.02
+STU0095,Khushi Bansal,Male,21,Sunrise Institute of Technology,Cyber Security,7,75.5,8.39,1,Yes,"HTML, CSS, JavaScript",Placed,Zoho,8.75
+STU0096,Pallavi Malviya,Male,19,Shri Ram Institute of Technology,Cyber Security,8,95.8,8.36,0,Yes,"Python, ML",Placed,Persistent,6.7
+STU0097,Ritika Saxena,Male,20,City Institute of Science,Mechanical,4,82,7.97,1,No,"Java, SQL",Placed,Persistent,6.2
+STU0098,Tushar Bansal,Female,23,Sunrise Institute of Technology,Data Science,6,80.2,7.78,0,Yes,"C, C++",Placed,Cognizant,7.02
+STU0099,Pranav Yadav,Female,18,ABC Institute of Technology,Data Science,6,95.7,8.33,1,Yes,"Python, AI",Placed,HCL,7.77
+STU0100,Pooja Bansal,Male,23,National College of Computer Studies,Data Science,8,72.3,7.58,0,Yes,"Python, Data Analytics",Placed,Infosys,6.78
+STU0101,Akash Mehta,Male,23,Lakshmi Narain College,Business Administration,8,72.2,7.42,0,Yes,"JavaScript, React",Placed,Persistent,6.83
+STU0102,Ananya Agarwal,Female,18,Techno India College,Cyber Security,6,77.8,9.26,1,Yes,"Python, ML",Placed,HCL,9.11
+STU0103,Kavya Choudhary,Female,19,Sunrise Institute of Technology,Information Technology,6,64.6,7.03,0,Yes,"Python, Excel",Placed,Zoho,7.38
+STU0104,Sonal Khan,Male,22,Government College of Engineering,Computer Science,6,69.1,9.56,0,No,"Java, Web Development",Placed,Wipro,7.18
+STU0105,Arjun Dubey,Female,24,Techno India College,Computer Science,6,87.9,6.62,1,Yes,"Python, ML",Placed,HCL,6.44
+STU0106,Vivek Yadav,Male,18,Shri Ram Institute of Technology,Data Science,5,91.5,7.27,1,No,"Java, Web Development",Placed,Deloitte,6.57
+STU0107,Divya Saxena,Female,23,Sunrise Institute of Technology,Business Administration,7,80.1,5.95,1,Yes,"Python, ML",Placed,HCL,3.99
+STU0108,Aman Tiwari,Female,24,Government College of Engineering,Information Technology,8,82.9,6.91,2,Yes,"Python, AI",Placed,Capgemini,4.98
+STU0109,Pooja Saxena,Male,18,Shri Ram Institute of Technology,Computer Science,7,70.7,7.49,3,Yes,"Python, SQL",Placed,Infosys,7.51
+STU0110,Chetan Gupta,Female,18,Modern Institute of Technology,Business Administration,5,78.6,6.49,1,No,"Python, SQL",Not Placed,N/A,0
+STU0111,Sameer Soni,Male,22,Shri Ram Institute of Technology,Information Technology,6,78.4,7.96,0,No,"HTML, CSS, JavaScript",Placed,Infosys,7.05
+STU0112,Shreya Thakur,Female,18,Techno India College,Mechanical,5,77.9,7.55,0,Yes,"Python, ML",Placed,Infosys,6.79
+STU0113,Ananya Dubey,Female,22,Techno India College,Computer Science,7,80.1,7.31,0,Yes,"Python, Excel",Placed,Infosys,6.07
+STU0114,Ritika Bansal,Male,23,Government College of Engineering,Electronics,4,72.6,8.15,1,No,"Java, SQL",Placed,Zoho,6.37
+STU0115,Bhavna Patel,Male,23,Lakshmi Narain College,Computer Science,6,83.3,9.02,1,Yes,"C, C++",Placed,IBM,8.36
+STU0116,Zoya Jain,Male,20,Government College of Engineering,Computer Science,6,75.4,9.1,0,Yes,"SQL, Power BI",Placed,Capgemini,8.11
+STU0117,Rahul Tiwari,Male,20,Techno India College,Civil,4,77.4,7.14,1,No,"Python, AI",Placed,Infosys,4.21
+STU0118,Kavya Yadav,Female,22,Shri Ram Institute of Technology,Electronics,7,76.2,7.71,2,Yes,"JavaScript, React",Placed,TCS,5.85
+STU0119,Mohit Dubey,Female,24,City Institute of Science,Computer Science,5,86.7,6.4,1,Yes,"Java, Web Development",Placed,Cognizant,5.07
+STU0120,Shreya Gupta,Male,23,Lakshmi Narain College,Data Science,6,74.2,7.62,0,Yes,"Python, Data Analytics",Placed,Accenture,7.96
+STU0121,Yash Singh,Male,21,Techno India College,Cyber Security,8,90.8,8.55,0,Yes,"HTML, CSS, JavaScript",Placed,Tech Mahindra,7.13
+STU0122,Ananya Yadav,Male,19,Lakshmi Narain College,Information Technology,6,70.2,6.27,1,Yes,"C, C++",Placed,Zoho,5.78
+STU0123,Mohit Dubey,Male,19,Central College of Engineering,Mechanical,5,79,8.55,0,Yes,"SQL, Power BI",Placed,IBM,6.96
+STU0124,Ananya Joshi,Male,21,Lakshmi Narain College,Cyber Security,7,79.7,7.18,3,No,"SQL, Power BI",Not Placed,N/A,0
+STU0125,Bhavna Thakur,Female,23,Sunrise Institute of Technology,Electronics,5,58,8.31,0,Yes,"Python, ML",Placed,Wipro,7.16
+STU0126,Meera Dubey,Male,20,Central College of Engineering,Civil,5,69.6,6.65,0,Yes,"Python, AI",Placed,Persistent,4.87
+STU0127,Deepak Soni,Male,23,Sunrise Institute of Technology,Data Science,8,97.3,7.96,0,No,"HTML, CSS, JavaScript",Placed,Accenture,6.87
+STU0128,Simran Sharma,Female,21,Techno India College,Civil,6,60,7.67,1,Yes,"C++, Java",Placed,Wipro,6.72
+STU0129,Pranav Jain,Female,20,Sunrise Institute of Technology,Electronics,6,83.7,6.9,4,Yes,"JavaScript, React",Placed,Cognizant,6.02
+STU0130,Khushi Mehta,Male,21,Central College of Engineering,Civil,7,78.1,7.91,0,Yes,"HTML, CSS, JavaScript",Placed,Wipro,7.93
+STU0131,Divya Singh,Female,21,Techno India College,Business Administration,7,86.5,6.77,0,Yes,"SQL, Power BI",Placed,Accenture,6.04
+STU0132,Aman Joshi,Male,21,Sunrise Institute of Technology,Business Administration,6,59.1,7.1,0,No,"Python, Excel",Not Placed,N/A,0
+STU0133,Mohit Verma,Female,21,ABC Institute of Technology,Mechanical,6,74.3,7.38,0,No,"C, C++",Not Placed,N/A,0
+STU0134,Bhavna Malviya,Male,21,Government College of Engineering,Data Science,8,93.6,6.94,0,Yes,"Python, AI",Placed,TCS,5.12
+STU0135,Priya Dubey,Female,21,City Institute of Science,Electronics,6,86,7.17,0,Yes,"C, C++",Placed,IBM,7.12
+STU0136,Vikas Bansal,Female,20,Lakshmi Narain College,Computer Science,6,75.6,7.88,0,Yes,"Python, Excel",Placed,Persistent,5.93
+STU0137,Ishita Bansal,Female,22,National College of Computer Studies,Computer Science,8,65.9,7.63,1,No,"JavaScript, React",Placed,Persistent,5.18
+STU0138,Divya Sharma,Male,21,Government College of Engineering,Cyber Security,5,72.2,7.82,0,Yes,"SQL, Power BI",Placed,Zoho,7.61
+STU0139,Rohan Jain,Male,22,Government College of Engineering,Business Administration,8,60.1,9.08,0,Yes,"Python, AI",Placed,Zoho,8.94
+STU0140,Simran Tiwari,Female,19,National College of Computer Studies,Civil,8,70.9,9.55,2,No,"Python, Excel",Placed,Zoho,8.01
+STU0141,Meera Thakur,Female,24,Modern Institute of Technology,Civil,4,66.8,7,2,Yes,"Python, Data Analytics",Not Placed,N/A,0
+STU0142,Karan Verma,Male,20,Central College of Engineering,Data Science,7,68.8,6.26,0,No,"C, C++",Not Placed,N/A,0
+STU0143,Bhavna Malviya,Female,22,Sunrise Institute of Technology,Mechanical,5,98.6,8.11,0,Yes,"C++, Java",Placed,Zoho,7.31
+STU0144,Aarav Thakur,Male,19,Shri Ram Institute of Technology,Business Administration,7,68.2,6.27,0,Yes,"Python, SQL",Placed,Infosys,5.64
+STU0145,Sakshi Verma,Male,19,Shri Ram Institute of Technology,Electronics,4,88.1,7.48,0,No,"C, C++",Placed,TCS,5.15
+STU0146,Manish Joshi,Male,21,Techno India College,Business Administration,5,84.7,6.69,0,Yes,"Python, ML",Placed,Persistent,5.14
+STU0147,Aarav Agarwal,Male,24,Modern Institute of Technology,Mechanical,5,67.1,6.68,1,Yes,"Python, Data Analytics",Placed,Persistent,4.72
+STU0148,Priya Agarwal,Male,19,ABC Institute of Technology,Civil,7,79.5,9,1,Yes,"Python, Excel",Placed,Deloitte,8.78
+STU0149,Aman Malviya,Male,21,Modern Institute of Technology,Electronics,7,69.1,5.62,3,No,"Python, Excel",Not Placed,N/A,0
+STU0150,Mohit Soni,Female,19,National College of Computer Studies,Electronics,7,87.5,8.73,0,Yes,"Python, AI",Placed,IBM,8.84
+STU0151,Zoya Mehta,Male,23,Sunrise Institute of Technology,Information Technology,8,63.3,7.96,0,Yes,"Python, SQL",Placed,IBM,6.46
+STU0152,Deepak Agarwal,Male,24,Techno India College,Business Administration,4,71.3,6.21,1,No,"SQL, Power BI",Not Placed,N/A,0
+STU0153,Bhavna Dubey,Female,21,Lakshmi Narain College,Computer Science,8,60.4,7.88,1,Yes,"Python, SQL",Placed,HCL,6.04
+STU0154,Meera Patel,Female,22,ABC Institute of Technology,Information Technology,7,88.1,7.68,1,No,"Python, Excel",Placed,Capgemini,5.57
+STU0155,Pooja Choudhary,Female,21,Central College of Engineering,Electronics,6,99,9.42,0,Yes,"Java, Web Development",Placed,TCS,10.08
+STU0156,Tushar Thakur,Female,21,Techno India College,Cyber Security,5,78.1,8.33,0,No,"Python, Excel",Placed,TCS,7.4
+STU0157,Simran Sharma,Female,19,National College of Computer Studies,Information Technology,4,69,6.96,2,No,"Java, Web Development",Not Placed,N/A,0
+STU0158,Pooja Mehta,Female,22,National College of Computer Studies,Computer Science,5,69.7,7.48,1,No,"Python, Data Analytics",Not Placed,N/A,0
+STU0159,Isha Joshi,Female,19,Techno India College,Mechanical,7,76.9,7.8,2,No,"Python, ML",Not Placed,N/A,0
+STU0160,Sameer Tiwari,Female,18,Government College of Engineering,Cyber Security,8,73.7,8.35,0,Yes,"Python, AI",Placed,Accenture,7.15
+STU0161,Pranav Verma,Male,22,Shri Ram Institute of Technology,Cyber Security,8,68.3,7.33,0,Yes,"C++, Java",Placed,Cognizant,5.46
+STU0162,Aman Mishra,Male,21,Sunrise Institute of Technology,Computer Science,4,84.4,8.91,0,Yes,"SQL, Power BI",Placed,Cognizant,7.8
+STU0163,Gaurav Jain,Male,23,Central College of Engineering,Business Administration,5,72.8,6.18,1,Yes,"Python, Data Analytics",Placed,Capgemini,5.07
+STU0164,Kavya Mishra,Female,20,Techno India College,Business Administration,7,99,8.97,0,No,"Java, Web Development",Placed,Capgemini,6.23
+STU0165,Yash Gupta,Male,18,Modern Institute of Technology,Cyber Security,6,83.1,8.16,0,No,"SQL, Power BI",Placed,Persistent,6.03
+STU0166,Vivek Tiwari,Female,21,City Institute of Science,Data Science,5,86,8.37,0,No,"Java, SQL",Placed,IBM,5.51
+STU0167,Tanya Verma,Male,24,ABC Institute of Technology,Cyber Security,5,82,6.95,2,Yes,"Python, AI",Placed,TCS,6.34
+STU0168,Tanya Tiwari,Female,18,ABC Institute of Technology,Cyber Security,4,93.9,7.65,0,Yes,"Python, AI",Placed,Persistent,6.67
+STU0169,Arjun Malviya,Male,22,City Institute of Science,Mechanical,5,72.4,7.03,0,No,"C++, Java",Placed,Capgemini,5.03
+STU0170,Varun Mehta,Male,20,Central College of Engineering,Computer Science,4,69.9,7.99,0,No,"Python, Excel",Placed,Tech Mahindra,7.1
+STU0171,Sanya Malviya,Female,22,ABC Institute of Technology,Mechanical,5,90.5,6.7,1,Yes,"C++, Java",Placed,Deloitte,6.75
+STU0172,Diya Agarwal,Male,18,National College of Computer Studies,Electronics,7,85.6,7.17,1,Yes,"JavaScript, React",Placed,IBM,5.87
+STU0173,Varun Patel,Male,22,Government College of Engineering,Computer Science,4,60.4,8.16,0,No,"HTML, CSS, JavaScript",Placed,Cognizant,5.26
+STU0174,Pooja Tiwari,Female,19,Government College of Engineering,Cyber Security,7,83.2,8.6,0,No,"C, C++",Placed,Zoho,5.87
+STU0175,Chetan Choudhary,Female,23,City Institute of Science,Cyber Security,6,75.2,7.8,2,Yes,"C, C++",Placed,Infosys,6.24
+STU0176,Sameer Thakur,Female,22,Shri Ram Institute of Technology,Information Technology,4,88.7,8.11,1,No,"JavaScript, React",Placed,Capgemini,6.1
+STU0177,Vivek Thakur,Male,19,Sunrise Institute of Technology,Electronics,7,81.8,8.12,0,Yes,"Python, ML",Placed,Capgemini,6.89
+STU0178,Mohit Mishra,Male,19,Lakshmi Narain College,Mechanical,7,84.7,7.98,2,Yes,"HTML, CSS, JavaScript",Placed,Cognizant,7.08
+STU0179,Sonal Soni,Female,19,Modern Institute of Technology,Data Science,8,84.3,7.3,0,No,"Python, Data Analytics",Placed,Zoho,5.78
+STU0180,Khushi Choudhary,Male,20,Shri Ram Institute of Technology,Data Science,4,84.1,7.25,3,Yes,"Python, AI",Placed,Zoho,6.29
+STU0181,Pooja Joshi,Male,24,Central College of Engineering,Cyber Security,7,83.4,8.09,0,Yes,"JavaScript, React",Placed,Infosys,7.23
+STU0182,Shivam Choudhary,Female,22,Techno India College,Cyber Security,8,99,8.04,1,No,"HTML, CSS, JavaScript",Placed,Infosys,5.32
+STU0183,Tanya Saxena,Male,19,Sunrise Institute of Technology,Computer Science,8,93,7.36,0,No,"JavaScript, React",Placed,Infosys,4.91
+STU0184,Pooja Saxena,Male,21,Lakshmi Narain College,Electronics,6,89.5,7.49,0,No,"C++, Java",Placed,Zoho,4.77
+STU0185,Manish Yadav,Female,24,National College of Computer Studies,Business Administration,6,67.4,7.64,1,Yes,"C, C++",Placed,Zoho,5.87
+STU0186,Sonal Malviya,Female,23,City Institute of Science,Mechanical,8,80.7,7.97,1,No,"Java, Web Development",Placed,Persistent,5.43
+STU0187,Neha Sharma,Female,23,Sunrise Institute of Technology,Mechanical,7,69.7,7.01,1,Yes,"Python, Excel",Placed,Infosys,6.3
+STU0188,Mohit Agarwal,Male,19,Lakshmi Narain College,Information Technology,6,72.5,6.58,3,Yes,"JavaScript, React",Not Placed,N/A,0
+STU0189,Meera Saxena,Male,24,Lakshmi Narain College,Electronics,6,89.7,6.91,2,Yes,"Java, Web Development",Placed,Wipro,5.68
+STU0190,Riya Choudhary,Male,21,Sunrise Institute of Technology,Electronics,8,73.2,7.89,1,No,"Java, SQL",Not Placed,N/A,0
+STU0191,Sameer Singh,Male,21,Modern Institute of Technology,Electronics,5,73.7,8.41,0,Yes,"Python, SQL",Placed,Accenture,8.51
+STU0192,Nikhil Tiwari,Female,21,Lakshmi Narain College,Business Administration,5,80.2,7.61,1,Yes,"C, C++",Placed,Deloitte,5.97
+STU0193,Sanya Tiwari,Female,22,Techno India College,Information Technology,8,91,8.52,0,Yes,"Python, SQL",Placed,Tech Mahindra,7.96
+STU0194,Arjun Mehta,Female,20,ABC Institute of Technology,Business Administration,6,67.3,8.85,0,No,"Java, Web Development",Placed,Zoho,7.45
+STU0195,Vikas Soni,Female,23,Shri Ram Institute of Technology,Electronics,8,82.4,7.97,0,Yes,"Python, Data Analytics",Placed,HCL,7.31
+STU0196,Vikas Joshi,Female,20,Sunrise Institute of Technology,Civil,8,93,7.38,0,No,"JavaScript, React",Placed,Deloitte,6.45
+STU0197,Varun Gupta,Male,19,City Institute of Science,Data Science,5,79.1,6.15,1,Yes,"C, C++",Placed,Capgemini,5
+STU0198,Neha Dubey,Male,23,Modern Institute of Technology,Data Science,7,86.5,7.25,0,No,"Python, Excel",Placed,Tech Mahindra,5.72
+STU0199,Ananya Thakur,Female,21,National College of Computer Studies,Cyber Security,5,69.2,7.53,0,Yes,"Python, ML",Placed,Tech Mahindra,7.43
+STU0200,Akash Malviya,Male,23,Lakshmi Narain College,Computer Science,4,83.3,7.27,0,No,"JavaScript, React",Placed,Zoho,6.43
+STU0201,Deepak Mishra,Female,18,Government College of Engineering,Civil,4,63,8.9,0,Yes,"C, C++",Placed,Accenture,8.11
+STU0202,Vikas Malviya,Male,18,National College of Computer Studies,Business Administration,4,82.8,7.98,1,Yes,"Python, Excel",Placed,Infosys,8.45
+STU0203,Varun Gupta,Female,21,Central College of Engineering,Mechanical,7,93.3,8.37,0,Yes,"C, C++",Placed,Wipro,8.03
+STU0204,Ananya Dubey,Male,22,ABC Institute of Technology,Electronics,7,73.9,8,1,No,"HTML, CSS, JavaScript",Placed,Accenture,5.22
+STU0205,Bhavna Malviya,Male,22,Shri Ram Institute of Technology,Data Science,7,75.8,7.95,0,Yes,"Python, AI",Placed,Zoho,7.46
+STU0206,Tanya Joshi,Male,19,Techno India College,Mechanical,7,77.1,7.79,2,No,"SQL, Power BI",Not Placed,N/A,0
+STU0207,Rahul Soni,Male,18,Techno India College,Computer Science,6,82.9,7.31,2,Yes,"Python, Data Analytics",Placed,Wipro,7.11
+STU0208,Aditya Bansal,Male,18,ABC Institute of Technology,Civil,5,81.4,7.58,1,Yes,"Java, SQL",Placed,Capgemini,6.58
+STU0209,Anjali Thakur,Female,22,Sunrise Institute of Technology,Electronics,6,81.5,7.68,2,No,"Python, ML",Not Placed,N/A,0
+STU0210,Shivam Patel,Female,20,Shri Ram Institute of Technology,Mechanical,4,78.8,9.55,0,Yes,"Python, SQL",Placed,Zoho,9.43
+STU0211,Ayush Sharma,Male,23,City Institute of Science,Computer Science,5,68.8,7.52,0,No,"C, C++",Placed,Wipro,6.32
+STU0212,Vivek Malviya,Female,24,ABC Institute of Technology,Data Science,7,77.5,7.82,1,Yes,"C++, Java",Placed,IBM,6.69
+STU0213,Sanya Singh,Female,20,City Institute of Science,Civil,4,89.8,6.67,0,No,"Python, SQL",Placed,TCS,4.08
+STU0214,Mohit Choudhary,Female,19,City Institute of Science,Computer Science,8,83.2,6.15,2,Yes,"Java, Web Development",Placed,Zoho,4.67
+STU0215,Sanya Saxena,Male,18,Techno India College,Computer Science,5,80,8.57,0,Yes,"SQL, Power BI",Placed,Deloitte,7.47
+STU0216,Aarav Saxena,Female,19,Modern Institute of Technology,Civil,8,78.4,8.36,1,No,"Java, Web Development",Placed,IBM,7.32
+STU0217,Chetan Sharma,Male,21,ABC Institute of Technology,Mechanical,8,67.1,8.92,1,No,"Python, SQL",Placed,Capgemini,8.18
+STU0218,Arjun Jain,Female,22,National College of Computer Studies,Cyber Security,7,99,6.92,0,Yes,"Python, SQL",Placed,IBM,5.79
+STU0219,Pranav Patel,Female,22,Central College of Engineering,Electronics,7,89.5,8.03,0,No,"Java, Web Development",Placed,Cognizant,7.35
+STU0220,Varun Agarwal,Female,20,Lakshmi Narain College,Civil,5,84,7.77,1,Yes,"Python, ML",Placed,Tech Mahindra,6.9
+STU0221,Ayush Thakur,Female,20,National College of Computer Studies,Business Administration,6,59,7.9,0,No,"C, C++",Not Placed,N/A,0
+STU0222,Gaurav Agarwal,Male,19,Central College of Engineering,Mechanical,6,75.5,7.67,0,No,"Python, ML",Placed,Capgemini,6.76
+STU0223,Arjun Yadav,Male,18,City Institute of Science,Information Technology,4,94.1,8.09,0,Yes,"JavaScript, React",Placed,Persistent,8.45
+STU0224,Shivam Bansal,Male,20,Central College of Engineering,Computer Science,4,82.6,8.73,0,Yes,"Python, Data Analytics",Placed,Tech Mahindra,6.97
+STU0225,Vivek Choudhary,Female,21,ABC Institute of Technology,Cyber Security,7,81.2,8.05,0,Yes,"Python, ML",Placed,HCL,7.6
+STU0226,Rahul Khan,Female,22,Lakshmi Narain College,Computer Science,4,77,7.98,0,No,"Python, AI",Placed,IBM,6.96
+STU0227,Vikas Saxena,Female,21,Techno India College,Business Administration,6,88.1,6.95,1,Yes,"Python, Data Analytics",Placed,TCS,7.03
+STU0228,Aman Tiwari,Female,22,Government College of Engineering,Mechanical,5,89.8,8.27,0,No,"Python, Excel",Placed,Accenture,6.75
+STU0229,Meera Singh,Female,19,National College of Computer Studies,Data Science,6,80.1,7.39,1,No,"HTML, CSS, JavaScript",Placed,Accenture,6.39
+STU0230,Sakshi Joshi,Female,19,Lakshmi Narain College,Computer Science,4,90.7,7.92,0,Yes,"Python, Data Analytics",Placed,Accenture,7.92
+STU0231,Vikas Singh,Female,24,Government College of Engineering,Computer Science,4,87.4,8.63,0,Yes,"Python, AI",Placed,Infosys,7.66
+STU0232,Shivam Malviya,Female,20,Modern Institute of Technology,Data Science,5,94,7.28,0,No,"SQL, Power BI",Placed,Wipro,5.94
+STU0233,Harsh Bansal,Female,24,City Institute of Science,Cyber Security,6,77.2,6.75,0,Yes,"Python, Excel",Placed,Capgemini,6.69
+STU0234,Diya Soni,Male,20,Sunrise Institute of Technology,Mechanical,8,87.3,8.14,0,Yes,"Python, Data Analytics",Placed,Wipro,7.75
+STU0235,Vikas Agarwal,Male,21,ABC Institute of Technology,Civil,5,78,7.84,0,Yes,"Python, SQL",Placed,Tech Mahindra,7.65
+STU0236,Nikhil Tiwari,Male,21,Government College of Engineering,Cyber Security,4,86.4,6.1,1,No,"Java, Web Development",Not Placed,N/A,0
+STU0237,Akash Joshi,Male,18,Government College of Engineering,Civil,4,83.5,7.75,0,No,"Python, AI",Placed,Infosys,5.56
+STU0238,Vikas Sharma,Female,21,City Institute of Science,Cyber Security,5,86.5,7.77,3,Yes,"Python, AI",Placed,Zoho,7.09
+STU0239,Kavya Mehta,Female,18,ABC Institute of Technology,Cyber Security,8,66.9,7.18,0,Yes,"C++, Java",Placed,Persistent,6.62
+STU0240,Divya Malviya,Female,18,National College of Computer Studies,Electronics,6,89.2,7.35,0,No,"SQL, Power BI",Placed,Persistent,4.92
+STU0241,Diya Saxena,Female,21,Government College of Engineering,Electronics,7,88.3,7.77,0,No,"HTML, CSS, JavaScript",Placed,Zoho,6.4
+STU0242,Tanya Saxena,Male,24,Techno India College,Cyber Security,8,78.5,7.82,0,Yes,"Python, AI",Placed,Tech Mahindra,7.22
+STU0243,Priya Joshi,Male,18,Shri Ram Institute of Technology,Computer Science,8,67.1,7.03,1,No,"Python, ML",Not Placed,N/A,0
+STU0244,Diya Singh,Female,19,National College of Computer Studies,Electronics,4,55,8.74,0,No,"Java, SQL",Placed,HCL,6.5
+STU0245,Anjali Choudhary,Male,22,Shri Ram Institute of Technology,Data Science,6,55.9,7.25,0,No,"HTML, CSS, JavaScript",Not Placed,N/A,0
+STU0246,Ayush Khan,Female,19,City Institute of Science,Information Technology,4,73.7,7.34,0,Yes,"Python, Data Analytics",Placed,Deloitte,6.2
+STU0247,Sanya Soni,Female,21,ABC Institute of Technology,Electronics,6,66.6,8.22,0,Yes,"JavaScript, React",Placed,Cognizant,7.98
+STU0248,Yash Tiwari,Male,20,Government College of Engineering,Computer Science,6,81.5,6.8,0,Yes,"Python, Excel",Placed,Accenture,4.96
+STU0249,Ritika Agarwal,Female,20,Shri Ram Institute of Technology,Information Technology,5,57.3,8.21,0,Yes,"Python, AI",Placed,TCS,7.53
+STU0250,Ananya Joshi,Male,23,Techno India College,Cyber Security,5,80.3,6.42,1,Yes,"Java, Web Development",Placed,Accenture,4.27
+STU0251,Mohit Jain,Male,20,Government College of Engineering,Business Administration,8,59.9,8.73,0,Yes,"SQL, Power BI",Placed,Wipro,9.24
+STU0252,Shivam Thakur,Female,20,Government College of Engineering,Electronics,6,77.9,6.12,0,Yes,"Python, ML",Placed,Accenture,5.98
+STU0253,Tushar Jain,Male,20,Shri Ram Institute of Technology,Computer Science,4,72.7,7.58,0,No,"Java, Web Development",Placed,Deloitte,6.3
+STU0254,Pallavi Choudhary,Female,24,Government College of Engineering,Business Administration,6,79.7,8.25,0,No,"HTML, CSS, JavaScript",Placed,IBM,7.79
+STU0255,Sameer Soni,Female,22,Modern Institute of Technology,Civil,4,69,7.59,0,Yes,"C, C++",Placed,Zoho,7.91
+STU0256,Divya Gupta,Female,22,National College of Computer Studies,Computer Science,8,70.8,7.95,0,Yes,"SQL, Power BI",Placed,Deloitte,8.21
+STU0257,Naman Verma,Female,22,Sunrise Institute of Technology,Mechanical,6,77,6.87,1,No,"Java, SQL",Not Placed,N/A,0
+STU0258,Deepak Thakur,Female,19,Modern Institute of Technology,Information Technology,7,83.4,8,1,No,"Python, ML",Not Placed,N/A,0
+STU0259,Sonal Patel,Female,19,Government College of Engineering,Mechanical,6,59.7,8.4,0,Yes,"SQL, Power BI",Placed,Tech Mahindra,6.59
+STU0260,Priya Jain,Male,22,Central College of Engineering,Cyber Security,8,77,7.79,2,Yes,"Java, Web Development",Placed,HCL,7.99
+STU0261,Chetan Agarwal,Female,24,City Institute of Science,Information Technology,7,63.4,9.8,0,Yes,"SQL, Power BI",Placed,Wipro,9.51
+STU0262,Rahul Patel,Male,19,Sunrise Institute of Technology,Cyber Security,7,56.7,8.83,0,Yes,"Java, Web Development",Placed,TCS,9.18
+STU0263,Aditya Sharma,Male,23,National College of Computer Studies,Mechanical,6,76.2,7.89,0,Yes,"C++, Java",Placed,Deloitte,8.24
+STU0264,Vivek Dubey,Female,22,Techno India College,Data Science,7,99,5.59,1,No,"Python, Data Analytics",Not Placed,N/A,0
+STU0265,Neha Sharma,Male,19,National College of Computer Studies,Electronics,5,76.7,6.3,0,Yes,"Java, SQL",Placed,Capgemini,6.24
+STU0266,Ritika Thakur,Female,22,ABC Institute of Technology,Computer Science,4,76.9,7.35,1,Yes,"JavaScript, React",Placed,Deloitte,6.44
+STU0267,Gaurav Sharma,Male,20,Shri Ram Institute of Technology,Information Technology,8,76.3,8.72,0,No,"C++, Java",Placed,HCL,6.12
+STU0268,Arjun Tiwari,Male,19,Sunrise Institute of Technology,Mechanical,6,91.2,5.39,1,Yes,"Python, ML",Placed,Tech Mahindra,5.27
+STU0269,Manish Mehta,Female,18,ABC Institute of Technology,Information Technology,4,85.6,6.35,0,Yes,"Python, AI",Placed,Zoho,4.36
+STU0270,Sonal Mehta,Female,21,Modern Institute of Technology,Civil,7,95.4,8.01,2,No,"Python, Data Analytics",Not Placed,N/A,0
+STU0271,Pallavi Malviya,Female,18,ABC Institute of Technology,Computer Science,5,74.8,7.03,0,Yes,"HTML, CSS, JavaScript",Placed,Zoho,5.12
+STU0272,Diya Malviya,Female,21,Shri Ram Institute of Technology,Business Administration,6,85.8,6.32,1,Yes,"Python, ML",Placed,Zoho,5.88
+STU0273,Arjun Khan,Male,22,Lakshmi Narain College,Business Administration,5,64.7,6.49,1,No,"Python, Excel",Not Placed,N/A,0
+STU0274,Priya Tiwari,Male,18,Shri Ram Institute of Technology,Business Administration,4,91.4,8.01,0,No,"Python, AI",Placed,HCL,6.82
+STU0275,Tanya Agarwal,Male,22,Techno India College,Information Technology,7,74,6.92,1,No,"JavaScript, React",Placed,IBM,5.99
+STU0276,Aarav Singh,Male,22,Lakshmi Narain College,Business Administration,5,88.4,7.97,0,No,"Python, SQL",Placed,IBM,6.57
+STU0277,Isha Patel,Female,21,Lakshmi Narain College,Business Administration,4,84.8,6.73,0,Yes,"Java, SQL",Placed,Capgemini,5.57
+STU0278,Anjali Soni,Male,22,Modern Institute of Technology,Mechanical,7,87,7.24,0,Yes,"SQL, Power BI",Placed,HCL,6.63
+STU0279,Vikas Yadav,Female,18,Central College of Engineering,Mechanical,4,67.8,8.92,1,Yes,"Python, AI",Placed,Infosys,7.17
+STU0280,Rahul Gupta,Male,24,Shri Ram Institute of Technology,Information Technology,6,73.1,7.13,2,Yes,"SQL, Power BI",Placed,Accenture,6.79
+STU0281,Zoya Khan,Male,18,Sunrise Institute of Technology,Information Technology,7,65.1,7.82,0,No,"Python, SQL",Placed,TCS,6.18
+STU0282,Shivam Tiwari,Female,22,City Institute of Science,Electronics,5,89.6,8.3,0,Yes,"JavaScript, React",Placed,HCL,8.63
+STU0283,Jatin Choudhary,Male,20,Modern Institute of Technology,Business Administration,5,86.8,8.43,1,Yes,"Python, Excel",Placed,Cognizant,8.27
+STU0284,Divya Jain,Male,22,Modern Institute of Technology,Data Science,5,92.4,7.35,2,Yes,"Python, Excel",Placed,Zoho,5.54
+STU0285,Sameer Tiwari,Female,22,Sunrise Institute of Technology,Cyber Security,8,73.7,9.2,0,Yes,"Python, SQL",Placed,TCS,9.06
+STU0286,Jatin Singh,Male,20,Modern Institute of Technology,Electronics,4,75,6.8,2,Yes,"SQL, Power BI",Placed,Persistent,6.47
+STU0287,Yash Thakur,Male,21,National College of Computer Studies,Civil,4,86.9,7.1,2,No,"Python, Data Analytics",Not Placed,N/A,0
+STU0288,Aarav Mishra,Male,19,Sunrise Institute of Technology,Business Administration,5,91.3,6.76,1,No,"Python, AI",Not Placed,N/A,0
+STU0289,Ritika Jain,Male,20,Lakshmi Narain College,Electronics,4,80.4,8.01,0,Yes,"JavaScript, React",Placed,Deloitte,6.34
+STU0290,Aarav Agarwal,Female,21,City Institute of Science,Computer Science,5,90.1,6.97,2,No,"Java, SQL",Not Placed,N/A,0
+STU0291,Ananya Agarwal,Female,22,National College of Computer Studies,Electronics,8,88.8,7.94,0,Yes,"C++, Java",Placed,Accenture,7.59
+STU0292,Mohit Joshi,Female,19,Sunrise Institute of Technology,Business Administration,8,90.6,5.23,0,No,"SQL, Power BI",Not Placed,N/A,0
+STU0293,Akash Agarwal,Male,21,Central College of Engineering,Cyber Security,6,70.1,7.32,2,No,"Python, Data Analytics",Not Placed,N/A,0
+STU0294,Rahul Verma,Female,20,National College of Computer Studies,Data Science,8,81.9,7.7,3,No,"Python, AI",Not Placed,N/A,0
+STU0295,Gaurav Jain,Male,24,Shri Ram Institute of Technology,Information Technology,5,62.9,7.17,3,No,"Java, SQL",Not Placed,N/A,0
+STU0296,Yash Gupta,Male,18,Lakshmi Narain College,Data Science,4,80.8,7.66,1,Yes,"HTML, CSS, JavaScript",Placed,Deloitte,6.63
+STU0297,Sneha Choudhary,Female,21,Government College of Engineering,Computer Science,7,72.3,6.51,1,Yes,"Python, Excel",Placed,Zoho,6.41
+STU0298,Riya Malviya,Female,20,Modern Institute of Technology,Information Technology,6,79,6.54,1,No,"SQL, Power BI",Not Placed,N/A,0
+STU0299,Bhavna Choudhary,Male,24,Techno India College,Civil,5,71.8,9.29,1,No,"Java, SQL",Placed,TCS,7.87
+STU0300,Ayush Verma,Male,18,Sunrise Institute of Technology,Cyber Security,8,74,7.39,0,No,"Python, Excel",Placed,Capgemini,6.56
